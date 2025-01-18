@@ -78,7 +78,7 @@ def get_byline() -> str:
     '''
     Get a byline for my analytics projects.
        
-    Returns a string byline that illustrates my specific skills.
+    Returns a string byline that shows my personality.
 
     A function is a block of code that performs a task.
     This function just returns our byline.
